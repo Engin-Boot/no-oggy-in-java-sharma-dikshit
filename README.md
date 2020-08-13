@@ -8,4 +8,5 @@ Remove all strings starting with "oggy".
 
 ## Solution
 
-The code is working now and oggy is leaving,
+The approch is to iterate through the array of strings comparing each string
+and if it starts with "oggy" it is removed from the array.
