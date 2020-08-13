@@ -8,5 +8,4 @@ Remove all strings starting with "oggy".
 
 ## Solution
 
-The code is working now and oggy is asked to leave
-and guess what she obliged.
+The code is working now and oggy is leaving,
